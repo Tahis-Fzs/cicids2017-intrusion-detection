@@ -305,6 +305,16 @@ Final environment example:
 
 ---
 
+
+## Team
+
+Intrusion Detection research project · **Daffodil International University**
+
+| Member | ID |
+|--------|-----|
+| Md. Shadman Hasin | 0242220005101462 |
+| Md. Shadman Tahsin | 0242220005101461 |
+
 ## Limitations
 
 - CERT, CICIDS2017, and Enron are **not same-organization / same-user linked**; multimodal fusion is exploratory
